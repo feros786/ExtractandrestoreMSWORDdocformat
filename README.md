@@ -72,36 +72,3 @@ It depends on
 ## Third party notices
 
 This project uses:
-
-### First Floor MUI
-
-(c) First Floor Software
-
-Under the Ms-PL: https://github.com/firstfloorsoftware/mui/blob/master/LICENSE.md
-
-Available from: https://github.com/firstfloorsoftware/mui
-
-### Html Agility Pack
-
-Under the Ms-PL: : https://github.com/zzzprojects/html-agility-pack/blob/master/LICENSE 
-
-Available from: https://github.com/zzzprojects/html-agility-pack 
-
-
-## Security
-All requests to the Translator service are SSL encrypted, using the certificate of the Microsoft Translator service.
-Document Translator stores the Azure Key unencypted in the
-user profile on the machine. For enterprise use we recommend to implement a more secure storage mechanism.
-
-
-## Questions and Support
-For questions and support please turn to the Microsoft Translator developer forum: 
-
-https://social.msdn.microsoft.com/Forums/en-US/home?category=translation
-
-## Enhancements
-Please branch and contribute back your enhancements. Especially interested in additional file formats.
-
-## Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
