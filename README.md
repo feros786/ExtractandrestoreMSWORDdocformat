@@ -67,8 +67,3 @@ It depends on
 - Newtonsoft JSON
 
 *You need to install these separately if you want to build.
-
-
-## Third party notices
-
-This project uses:
